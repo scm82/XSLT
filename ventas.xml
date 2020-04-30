@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ventas.xsl"?>
+<ventas>
+	<resumen>
+		<titulo>Editorial Yoquese</titulo>
+		<subtitulo>Informe de ventas</subtitulo>
+		<descripcion>Ventas de Aragón</descripcion>
+	</resumen>
+	<datos>
+		<provincia>
+			<nombre>Zaragoza</nombre>
+			<trimestre numero="1" cantidad="24000"/>
+			<trimestre numero="2" cantidad="38600"/>
+			<trimestre numero="3" cantidad="44030"/>
+			<trimestre numero="4" cantidad="21000"/>
+		</provincia>
+		<provincia>
+			<nombre>Huesca</nombre>
+			<trimestre numero="1" cantidad="11000"/>
+			<trimestre numero="2" cantidad="16080"/>
+			<trimestre numero="3" cantidad="25000"/>
+			<trimestre numero="4" cantidad="29000"/>
+		</provincia>
+		<provincia>
+			<nombre>Teruel</nombre>
+			<trimestre numero="1" cantidad="27000"/>
+			<trimestre numero="2" cantidad="31400"/>
+			<trimestre numero="3" cantidad="40100"/>
+			<trimestre numero="4" cantidad="30000"/>
+		</provincia>
+	</datos>
+</ventas>
